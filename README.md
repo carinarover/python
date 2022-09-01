@@ -6,6 +6,7 @@ Exercícios de Python
 - Curso: https://www.cursoemvideo.com/
 
 
+
 Mundo 1: Fundamentos
 
 Mundo 2: Estruturas de Controle
