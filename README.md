@@ -7,5 +7,7 @@ Exercícios de Python
 
 
 Mundo 1: Fundamentos
+
 Mundo 2: Estruturas de Controle
+
 Mundo 3: Estruturas Compostas
